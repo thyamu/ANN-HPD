@@ -1,2 +1,2 @@
-# ANN-HPD
-Training ANN for High Precision Datasets 
+# HPR-DNN
+High Precision Regressor DNN    
